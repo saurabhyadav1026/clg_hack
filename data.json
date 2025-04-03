@@ -1,0 +1,24 @@
+{
+    "subjects": [
+        {
+            "name": "Subject Name from Image",
+            "code": "SUB101",
+            "units": [
+                {
+                    "name": "Unit 1 Name from Image",
+                    "topics": [
+                        {"name": "Topic 1 from Image"},
+                        {"name": "Topic 2 from Image"},
+                        {
+                            "name": "Topic with Subtopics",
+                            "topics": [
+                                {"name": "Subtopic 1"},
+                                {"name": "Subtopic 2"}
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
